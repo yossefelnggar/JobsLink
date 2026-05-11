@@ -1,6 +1,14 @@
 # 🚀 LinkHub — دليل الإعداد الكامل
 
 منصة خدمات ذكية جاهزة للنشر باستخدام Firebase + واتساب.
+<div align="center">
+  <br>
+  <a href="https://ko-fi.com/coden1">
+    <img src="https://storage.ko-fi.com/cdn/brandasset/kofi_button_orange.png" alt="Buy Me a Coffee at ko-fi.com" width="300" style="border-radius: 12px; box-shadow: 0px 4px 8px rgba(0,0,0,0.2);" />
+  </a>
+  <p><i>إذا استفدت من الكود، يمكنك دعم استمرارية المشروع عبر كوفي</i></p>
+  <br>
+</div>
 
 ---
 
