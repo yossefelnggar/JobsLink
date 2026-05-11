@@ -5,11 +5,12 @@
 <div align="center">
   <br>
   <a href="https://ko-fi.com/coden1">
-    <img src="https://storage.ko-fi.com/cdn/brandasset/kofi_button_orange.png" alt="Buy Me a Coffee" width="300" style="border-radius: 12px;" />
+    <img src="https://i.ibb.co/HDWHPDJD/670f5a02fad2b4c413af6d15-support-me-on-kofi-badge-beige.png" alt="Support Me on Ko-fi" width="220" style="border-radius: 8px; transition: transform 0.2s;" />
   </a>
-  <p><i>دعمك يساعدنا على تطوير حلول برمجية مفتوحة المصدر ومبتكرة في <b>CODEN</b></i></p>
+  <p><i>إذا وجدت هذا المشروع مفيداً، يمكنك دعم تطويره عبر كوفي.</i></p>
   <br>
 </div>
+
 
 ---
 
